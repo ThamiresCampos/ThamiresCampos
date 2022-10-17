@@ -1,6 +1,6 @@
 Oii!! Eu sou a Thamires (:
 
-- 🌱 Estudando desenvolvimento WEB JAVA
+- 🌱 Estudando Programação WEB JAVA
 - 😄 Pronouns: ela/dela
 
 
